@@ -8,4 +8,4 @@
     - community.general
  
   roles:
-    - role: robertdebock.roles.update
+    - role: robertdebock.update
